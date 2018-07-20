@@ -1,0 +1,22 @@
+{
+	"time": "Fri Jul 20 2018 13:49:27 GMT+0300 (EEST)",
+	"nativePlatformStatus": "3",
+	"bundle": false,
+	"release": false,
+	"changesRequireBuild": false,
+	"projectFileHash": "4103791439dea3db216e24242ae4412d232f55f179d7e96a0147151f9c54ee36",
+	"changesRequireBuildTime": "Fri Jul 20 2018 13:31:51 GMT+0300 (EEST)",
+	"appFilesHashes": {
+		"/Users/niliev/Desktop/blogs/android-dependency/demo/app/README.md": "fc4ef74fe23e33ad189d966d9890d85bfe4293f9",
+		"/Users/niliev/Desktop/blogs/android-dependency/demo/app/app-root.xml": "900a386cb2d8abc9573413eb3aff45448dcd3608",
+		"/Users/niliev/Desktop/blogs/android-dependency/demo/app/app.css": "20c6c8972355f306b2192c4667abb54f27a39cbb",
+		"/Users/niliev/Desktop/blogs/android-dependency/demo/app/app.js": "bd38726da157d286225eee0751eaad10b799cd4d",
+		"/Users/niliev/Desktop/blogs/android-dependency/demo/app/app.ts": "84588dca6b48d72713121c061e75f526f670396f",
+		"/Users/niliev/Desktop/blogs/android-dependency/demo/app/bundle-config.js": "9ca5deff9418218fc2bbf8fc1b119fa4a985ab26",
+		"/Users/niliev/Desktop/blogs/android-dependency/demo/app/bundle-config.ts": "9496a8adc0b4ddd3029ae1aa116626b2a7b57e05",
+		"/Users/niliev/Desktop/blogs/android-dependency/demo/app/main-page.js": "16ce0a05c4a5129b8356e216c1db66b89bcc3c54",
+		"/Users/niliev/Desktop/blogs/android-dependency/demo/app/main-page.ts": "337e79dd84ed08bda97f15c0f169e0d453fb5710",
+		"/Users/niliev/Desktop/blogs/android-dependency/demo/app/main-page.xml": "bc409812b5b625fabc69f58afc7038b12574aee3",
+		"/Users/niliev/Desktop/blogs/android-dependency/demo/app/package.json": "4d4a9239cdae9cd91861eb6398cc3b0922a91ad8"
+	}
+}
